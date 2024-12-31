@@ -15,4 +15,5 @@ Before running the app, ensure you have the following installed:
 - An Ollama instance running the Llama3.2 model
 
 # Demo
+https://github.com/user-attachments/assets/efe5cd62-fb90-4979-a8d6-734b6da47e33
 
